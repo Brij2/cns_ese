@@ -1,3 +1,4 @@
+#des
 from Crypto.Cipher import DES
 from secrets import token_bytes
 

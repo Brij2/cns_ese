@@ -1,3 +1,4 @@
+# chinese remainder theorem
 import math
 
 # Function to calculate the modular multiplicative inverse
